@@ -22,7 +22,7 @@ export default function (yargs: YargsInstance) {
     .option("date", {
       alias: "D",
       type: "string",
-
+      requiresArg: true,
       describe: "Specify a date",
     });
   return yargs.positional("file", {
