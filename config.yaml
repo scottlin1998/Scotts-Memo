@@ -1,0 +1,16 @@
+REVIEW_INTERVAL_SET:
+  - 0
+  - 1
+  - 1
+  - 2
+  - 3
+  - 5
+  - 8
+  - 13
+  - 21
+  - 34
+  - 55
+  - 89
+  - 144
+DELETE_INVALID_DATA: true
+DETECT_INTERVAL: 10
